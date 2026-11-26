@@ -1,0 +1,6 @@
+{
+  "watch": ["*.js", "*.json"],
+  "ignore": ["node_modules", "sounds", "chat_log.txt"],
+  "ext": "js,json",
+  "legacyWatch": true
+}
